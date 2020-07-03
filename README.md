@@ -9,6 +9,6 @@ View project
 Download this repo.
 Navigate to the project directory in the command line/terminal.
 Run ‘npm install’ (or view the required dependencies listed in the package.json file and install each manually).
-Run ‘npm seed’ to seed the SQLite database.
+Run ‘npm run seed’ to seed the SQLite database.
 Run ‘npm start’ to start the application. (To test the Express server, browse to the URL: http://localhost:5000/)
 Use Postman for thorough route testing.
